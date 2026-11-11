@@ -1,14 +1,15 @@
-**Hi there, I'm Romain 👋**
-I am a 4th-year engineering student in Information Technology at INSA Rouen Normandie, specializing in backend development, systems administration, and cloud infrastructure. From January to July 2027, I will be advancing my studies in Cloud Computing and Cybersecurity at **RMIT University in Melbourne**.
+Hi, I'm Romain 👋
 
-🎯 **Currently seeking a 10-week engineering internship in DevOps, Cloud Infrastructure, or Cybersecurity starting in June 2027.**
+4th-year engineering student (Master's level) in Computer Science at INSA Rouen Normandie, France.
+From February to June 2027, I'm on exchange at RMIT University in Melbourne (cloud computing and cybersecurity).
 
-While my public GitHub activity highlights open-source plugins, my core expertise lies in designing, securing, and operating production-grade infrastructure:
+**🎯 Looking for a summer 2027 internship in software engineering, backend, DevOps or cloud infrastructure.
+Available from 28 June to 10 September 2027 - EU citizen, no sponsorship needed.**
 
-*   **Infrastructure & operations lead:** architecting and maintaining self-hosted Linux environments, Docker deployments, and reverse proxy routing (Traefik, NGINX) for large-scale student organizations (BDE INSA Rouen) ;
-*   **High-stakes platforms:** managing the technical stack, infrastructure, and payment integrations for **Purple Rouen**, a charity race platform serving over 745 participants and raising €7,000+ for charity ;
-*   **Algorithmic backend development:** built **INSATutorat**, a Go-based API utilizing constraint-based scheduling algorithms to match over 400 students for academic tutoring ;
-*   **Zero-trust & security:** implementing Cloudflare Zero Trust networks, VPS environment hardening, and secure credential sharing via self-hosted Vaultwarden ;
-*   **Applied cybersecurity:** placed **2nd out of 110+ teams** at the TRACS 2025 cybersecurity and intelligence tournament organized by CentraleSupélec.
+What I build:
+- **Production platforms**: tech and infrastructure lead for Purple Rouen, a student charity race (Symfony API, Nuxt, HelloAsso payments, self-hosted Linux): 745 participants, €7,073 raised for charities.
+- **Open source**: maintainer of [MongoSK](https://github.com/Romitou/MongoSK) (Java, used on 150+ servers); member of SkriptLang and administrator of Skript-MC.
+- **Backend & infrastructure in Go**: [skmc-parser](https://github.com/Romitou/skmc-parser) (gateway dispatching jobs to isolated Docker containers), [MongoS3](https://github.com/Romitou/MongoS3) (encrypted streamed backups to S3), [INSATutorat](https://github.com/Romitou/INSATutorat) (stable matching for 400+ students), [pegasus](https://github.com/Romitou/pegasus) (OAuth 2.0 provider).
+- **Security**: Cloudflare Zero Trust, hardened Linux servers; 2nd out of 110+ teams at TRACS 2025 (CentraleSupélec).
 
-More info @ https://leprevost.dev
+📫 romain@leprevost.dev · [leprevost.dev](https://leprevost.dev) · [LinkedIn](https://www.linkedin.com/in/romain-leprevost)
